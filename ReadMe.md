@@ -1,6 +1,6 @@
 ### 🏆 My Kaggle Ranks
 
- ![](vampire_Badge-44.svg)  ![](python_coder_Badge-26.svg)  ![](./kaggle-badges/NotebooksRank/plastic-black.svg)  ![](./kaggle-badges/DiscussionsRank/plastic-black.svg) 
+ ![](github_Badge-32.svg)![](vampire_Badge-44.svg)  ![](python_coder_Badge-26.svg)  ![](./kaggle-badges/NotebooksRank/plastic-black.svg)  ![](./kaggle-badges/DiscussionsRank/plastic-black.svg) 
 
 
 ## 🌐 Socials:
