@@ -1,6 +1,6 @@
 ## 🏆 My Google Badges:
 
-![](google_badge(1).svg)![](google_badge(2).svg) ![](google_badge.svg) ![](discord_Badge-45.svg)
+![](google_badge(1).svg)![](google_badge(2).svg) ![](google_badge.svg) ![](google_created_profile.svg)
 
 ### 🏆 My Kaggle Badges:
 
