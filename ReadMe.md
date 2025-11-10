@@ -3,7 +3,7 @@
 
 | Competitions | Datasets | Notebooks | Discussions |
 | :---: | :---: | :---: | :---: |
-| ![](vampire_Badge-44.svg) | ![](./kaggle-badges/DatasetsRank/plastic-black.svg) | ![](./kaggle-badges/NotebooksRank/plastic-black.svg) | ![](./kaggle-badges/DiscussionsRank/plastic-black.svg) |
+| ![](vampire_Badge-44.svg) | ![](python_coder_Badge-26.svg) | ![](./kaggle-badges/NotebooksRank/plastic-black.svg) | ![](./kaggle-badges/DiscussionsRank/plastic-black.svg) |
 
 
 ## 🌐 Socials:
