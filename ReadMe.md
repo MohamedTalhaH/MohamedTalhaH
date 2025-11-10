@@ -1,6 +1,6 @@
 ## 🏆 My Google Badges:
 
-![](google_badge(1).svg)
+![](google_badge(1).svg)![](vampire_Badge-44.svg) ![](python_coder_Badge-26.svg) ![](discord_Badge-45.svg) ![]
 
 ### 🏆 My Kaggle Badges:
 
