@@ -1,8 +1,5 @@
 ### 🏆 My Kaggle Ranks
 
-
-| Competitions | Datasets | Notebooks | Discussions |
-| :---: | :---: | :---: | :---: |
 | ![](vampire_Badge-44.svg) | ![](python_coder_Badge-26.svg) | ![](./kaggle-badges/NotebooksRank/plastic-black.svg) | ![](./kaggle-badges/DiscussionsRank/plastic-black.svg) |
 
 
