@@ -3,7 +3,7 @@
 
 | Competitions | Datasets | Notebooks | Discussions |
 | :---: | :---: | :---: | :---: |
-| ![](./kaggle-badges/CompetitionsRank/plastic-black.svg) | ![](./kaggle-badges/DatasetsRank/plastic-black.svg) | ![](./kaggle-badges/NotebooksRank/plastic-black.svg) | ![](./kaggle-badges/DiscussionsRank/plastic-black.svg) |
+| ![](file:///C:/Users/ELCOT/Downloads/inbox_1488634_9c37cceb9f493bb678dd909e988b1456_Badge-1.svg) | ![](./kaggle-badges/DatasetsRank/plastic-black.svg) | ![](./kaggle-badges/NotebooksRank/plastic-black.svg) | ![](./kaggle-badges/DiscussionsRank/plastic-black.svg) |
 
 
 ## 🌐 Socials:
