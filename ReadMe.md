@@ -1,6 +1,6 @@
 ## 🏆 My Google Badges:
 
-<img src="google_badge(1).svg" width="40"><img src="google_badge(2).svg" width="40"> <img src="google_badge.svg" width="40"><img src="google_created_profile.svg" width="40">
+<img src="google_badge(1).svg" width="60"><img src="google_badge(2).svg" width="60"> <img src="google_badge.svg" width="60"><img src="google_created_profile.svg" width="60">
 
 ### 🏆 My Kaggle Badges:
 
